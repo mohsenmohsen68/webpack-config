@@ -1,0 +1,1 @@
+console.log("products ---\x3e",{laptops:4,mobile:9,ipods:2});
